@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+
+            h1{
+            
+                color:white;
+                text-align: center;
+                border: 5px solid deepskyblue;
+                padding:8px;
+                border-radius: 20px;
+                box-shadow: 10px 10px 10px deepskyblue;
+                width: 90%;
+                margin: 20px auto;
+            
+            
+            }
+            body{
+    
+                background: linear-gradient(navy 50%, black 100%);
+                margin: 0;
+                overflow-x: hidden;
+            }
+            img{
+                display: block;
+                margin: auto;
+                width: 200px;
+                padding: 9px;
+                border: 5px solid deepskyblue;
+                border-radius: 50px;
+                box-shadow: 10px 10px 10px deepskyblue;
+            }  
+            p{
+                color:white;
+                text-align: center;
+                border: 5px solid deepskyblue;
+                padding:8px;
+                border-radius: 20px;
+                box-shadow: 10px 10px 10px deepskyblue;
+                width: 90%;
+                margin: 20px auto;
+                
+            }
+     
+            .thankyou{
+                color: white;
+                text-align: center;
+                border: 5px solid navy;
+                padding: 8px;
+                border-radius: 20px;
+                box-shadow: 10px 10px 10px navy;
+                width: 90%;
+                margin: 20px auto;
+                font-style: italic;
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+        <h1>Bluey animation🇦🇺</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/id/thumb/4/48/Bluey_%282018_TV_series%29_title_card.jpg/250px-Bluey_%282018_TV_series%29_title_card.jpg">
+        
+        
+        <p>
+<b>Bluey</b> adalah seri animasi televisi prasekolah Australia yang tayang perdana ABC Kids pada 1 Oktober 2018. Program ini dibuat oleh Joe Brumm dan diproduksi oleh perusahaan Ludo Studio yang berbasis di Queensland. 
+        </p>
+    
+    
+        <img src="https://people.com/thmb/ZYac0i4To4D1Q0wZSpHS6ivk-gc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(978x614:980x616)/bluey-1-21faecc2523e41388622285a4d03d084.jpg">
+        
+        
+        <p>
+        <b class="tentang">Dinamika Keluarga : </b>Cerita berpusat pada hubunganyou Bluey dengan keluarganya. Mereka digambarkan sebagai keluarga modern yang suportif, di mana orang tua terlibat aktif dalam permainan anak-anak mereka.💙
+        </p>
+        
+        
+        <p>
+            <b>Permainan Imajinatif : </b>Inti dari setiap episode adalah bagaimana Bluey dan bingo adiknya menggunakan imajinasi mereka untuk belajar tentang dunia, mulai dari bermain "rumah-rumahan" hingga petualangan fantasi.😆
+        </p>
+        
+        
+        <p>
+            <b>Pembelajaran Sosial-Emosional : </b>Meskipun ditujukan untuk anak-anak, Bluey mengangkat tema-tema mendalam seperti resiliensi, empati, berbagi, dan cara mengelola emosi. 
+        </p>
+        
+        
+        <p>
+            <b>Pesan untuk Orang Tua : </b> Serial ini juga menceritakan sisi emosional orang tua, seperti rasa lelah, stres, dan tantangan dalam mengasuh anak, yang menjadikannya favorit bagi penonton dewasa.
+        </p>
+        
+        
+        <p>
+            <b>Budaya Australia : </b> Latar tempatnya menampilkan arsitektur khas Queensland dan budaya lokal Australia yang autentik.🇦🇺
+        </p>
+        
+        <img src="https://i.pinimg.com/474x/04/59/4f/04594fa4bffb23885be9e855f182d938.jpg">
+        
+        
+        <h2 class="thankyou">~thank you~</h2>
+        
+    </body>
+</html>
